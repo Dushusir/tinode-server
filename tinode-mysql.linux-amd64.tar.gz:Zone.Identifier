@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/tinode/chat/releases/
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/26661222/cc366607-9376-471c-b045-bacba14da543?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20221107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221107T081149Z&X-Amz-Expires=300&X-Amz-Signature=1094e016fd04b30e42850a9e3612619a68e270b5e383dd23fd539f57b9d1e064&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=26661222&response-content-disposition=attachment%3B%20filename%3Dtinode-mysql.linux-amd64.tar.gz&response-content-type=application%2Foctet-stream
